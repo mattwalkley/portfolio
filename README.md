@@ -1,4 +1,2 @@
-front-end-portfolio
+portfolio
 ===================
-
-A collection of front-end development code from Matt Walkley
